@@ -1,0 +1,87 @@
+# רז מערכות — Generative Engine Optimization Map
+
+> A business focused on earthquake early warning and alert systems, operating in the safety and emergency preparedness sector. The brand revolves around life-saving technology designed to detect seismic activity and provide timely alerts to individuals, communities, or organizations.
+
+---
+
+## Pages
+
+### בית
+https://-61a431c6.zappy5.app
+רז מערכות מציעה מערכת התראה לרעידת אדמה מתקדמת שמזהה פעילות סיסמית שניות לפני האסון. הגנו על המשפחה, הקהילה והעסק שלכם עם טכנולוגיה מצילת חיים.
+
+### שירותים
+https://-61a431c6.zappy5.app/services
+גלו את מגוון שירותי ההתראה המתקדמים של רז מערכות: גלאי רעידת אדמה, מערכות התראה המוניות וחיישנים חכמים לבתים, ארגונים וערים. הטכנולוגיה שלנו פועלת בזמן אמת.
+
+### אודות
+https://-61a431c6.zappy5.app/about
+רז מערכות נוסדה מתוך שליחות אחת: להציל חיים באמצעות מערכת התראה לרעידת אדמה חדשנית. הכירו את הצוות, הערכים והחזון שהפכו אותנו למובילים בתחום הבטיחות הסיסמית בישראל.
+
+### צור קשר
+https://-61a431c6.zappy5.app/contact
+יש לכם שאלות על מערכות לרעידת אדמה או רוצים להתקין גלאי רעידת אדמה בבית או בעסק? צוות המומחים של רז מערכות זמין עבורכם. צרו קשר עוד היום ותקבלו ייעוץ מקצועי ללא עלות.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-61a431c6.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-61a431c6.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-61a431c6.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-61a431c6.zappy5.app/contact
+- Endpoint: https://-61a431c6.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `phone` (tel, required)
+  - `email` (email, required)
+  - `organization` (text)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About רז מערכות
+A business focused on earthquake early warning and alert systems, operating in the safety and emergency preparedness sector. The brand revolves around life-saving technology designed to detect seismic activity and provide timely alerts to individuals, communities, or organizations.
+
+## Services/Products
+- מערכות התראה לרעידת אדמה
+
+## Target Audience
+- שירותי חירום
+- תאגידים גדולים
+- מוסדות חינוך
+- רשויות מקומיות
+- חברות ביטוח
+- קבלנים
+- קופות חולים
+- תעשייה
+
+## Industry
+Emergency Alert Systems
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-61a431c6.zappy5.app/sitemap.xml
+- Robots: https://-61a431c6.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-61a431c6.zappy5.app/llms-full.txt
