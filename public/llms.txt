@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://-61a431c6.zappy5.app
+https://example.com
 רז מערכות מציעה מערכת התראה לרעידת אדמה מתקדמת שמזהה פעילות סיסמית שניות לפני האסון. הגנו על המשפחה, הקהילה והעסק שלכם עם טכנולוגיה מצילת חיים.
 
 ### שירותים
-https://-61a431c6.zappy5.app/services
+https://example.com/services
 גלו את מגוון שירותי ההתראה המתקדמים של רז מערכות: גלאי רעידת אדמה, מערכות התראה המוניות וחיישנים חכמים לבתים, ארגונים וערים. הטכנולוגיה שלנו פועלת בזמן אמת.
 
 ### אודות
-https://-61a431c6.zappy5.app/about
+https://example.com/about
 רז מערכות נוסדה מתוך שליחות אחת: להציל חיים באמצעות מערכת התראה לרעידת אדמה חדשנית. הכירו את הצוות, הערכים והחזון שהפכו אותנו למובילים בתחום הבטיחות הסיסמית בישראל.
 
 ### צור קשר
-https://-61a431c6.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלות על מערכות לרעידת אדמה או רוצים להתקין גלאי רעידת אדמה בבית או בעסק? צוות המומחים של רז מערכות זמין עבורכם. צרו קשר עוד היום ותקבלו ייעוץ מקצועי ללא עלות.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-61a431c6.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-61a431c6.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-61a431c6.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-61a431c6.zappy5.app/contact
-- Endpoint: https://-61a431c6.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -82,6 +82,6 @@ Emergency Alert Systems
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-61a431c6.zappy5.app/sitemap.xml
-- Robots: https://-61a431c6.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-61a431c6.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
