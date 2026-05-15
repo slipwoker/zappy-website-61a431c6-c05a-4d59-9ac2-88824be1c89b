@@ -51,6 +51,7 @@ Information about WCAG compliance and accessibility features.
 - Email: razsys@gmail.com
 - Phone: 0523166166
 - Phone (tel): tel:0523166166
+- Address: חומה ומגדל 55 חיפה, חיפה
 
 ### Contact form
 - URL: https://example.com/contact
