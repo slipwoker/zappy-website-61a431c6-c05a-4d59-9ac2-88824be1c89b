@@ -26,6 +26,10 @@ https://example.com/contact
 https://example.com/certifications
 רז מערכות - אישורים ותקינה
 
+### גלריית פרויקטים והתקנות
+https://example.com/gallery
+רז מערכות - גלריית פרויקטים והתקנות
+
 ## Legal & Policy
 
 ### Privacy Policy
