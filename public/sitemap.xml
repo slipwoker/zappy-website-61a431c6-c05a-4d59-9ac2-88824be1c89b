@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://razmaarachot.zappy5.app</loc>
+    <loc>https://razsys.co.il</loc>
     <lastmod>2026-05-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://razmaarachot.zappy5.app/services</loc>
+    <loc>https://razsys.co.il/services</loc>
     <lastmod>2026-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://razmaarachot.zappy5.app/about</loc>
+    <loc>https://razsys.co.il/about</loc>
     <lastmod>2026-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://razmaarachot.zappy5.app/contact</loc>
+    <loc>https://razsys.co.il/contact</loc>
     <lastmod>2026-05-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://razmaarachot.zappy5.app/certifications</loc>
+    <loc>https://razsys.co.il/certifications</loc>
     <lastmod>2026-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://razmaarachot.zappy5.app/gallery</loc>
+    <loc>https://razsys.co.il/gallery</loc>
     <lastmod>2026-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://razmaarachot.zappy5.app/privacy</loc>
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://razmaarachot.zappy5.app/terms</loc>
+    <loc>https://razsys.co.il/privacy</loc>
     <lastmod>2026-05-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://razmaarachot.zappy5.app/accessibility</loc>
+    <loc>https://razsys.co.il/terms</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://razsys.co.il/accessibility</loc>
     <lastmod>2026-05-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

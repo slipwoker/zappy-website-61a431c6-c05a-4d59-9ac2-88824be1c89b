@@ -7350,6 +7350,8 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 
 
 
+
+
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
@@ -8240,7 +8242,7 @@ html:not([dir]) #mic-init-access-tool .mic-access-tool-general-button,
 html:not([dir]) #mic-init-access-tool #mic-access-tool-general-button,
 html:not([dir]) ._access-icon { right: 20px !important; left: auto !important; }
 @media (max-width: 768px) { .whatsapp-float { display: flex !important; } }
-@media (min-width: 769px) { .whatsapp-float { display: none !important; } }
+@media (min-width: 769px) { .whatsapp-float { display: flex !important; } }
 @media (max-width: 768px) {
   #mic-access-tool-general-button, .mic-access-tool-general-button,
   #mic-init-access-tool .mic-access-tool-general-button,
