@@ -215,6 +215,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="גלריית פרויקטים והתקנות">
     <meta name="twitter:description" content="רז מערכות - גלריית פרויקטים והתקנות">
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"LocalBusiness","@id":"https://razmaarachot.zappy5.app#organization","name":"רז מערכות","url":"https://razmaarachot.zappy5.app","description":"A business focused on earthquake early warning and alert systems, operating in the safety and emergency preparedness sector. The brand revolves around life-saving technology designed to detect seismic activity and provide timely alerts to individuals, communities, or organizations.","address":{"@type":"PostalAddress","streetAddress":"חומה ומגדל 55 חיפה, חיפה"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","email":"razsys@gmail.com","telephone":"0523166166"}]},{"@type":"WebSite","@id":"https://razmaarachot.zappy5.app#website","url":"https://razmaarachot.zappy5.app","name":"רז מערכות","publisher":{"@id":"https://razmaarachot.zappy5.app#organization"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://razmaarachot.zappy5.app"},{"@type":"ListItem","position":2,"name":"Gallery","item":"https://razmaarachot.zappy5.app/gallery"}]}]}</script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <style>
     .skip-link { position: absolute; top: 0; left: 0; transform: translateY(-200%); padding: 12px 18px; background: var(--bg-dark, #1a1a1a); color: var(--text-light, #fff); font-weight: 600; border-radius: 0 0 8px 0; z-index: 10000; }
@@ -237,6 +238,7 @@
     <script src="https://cdn.jsdelivr.net/gh/mickidum/acc_toolbar/acctoolbar/acctoolbar.min.js"></script>
 
     <!-- Open Graph / Social Media Meta Tags -->
+    <meta property="og:url" content="https://razmaarachot.zappy5.app/gallery">
     <meta property="og:type" content="article">
     
     
@@ -595,9 +597,12 @@
   }
 }
 /* ZAPPY_POSTGEN_GUARD_HERO_FONT_CAP:gallery-hero */
-.hero h1, .hero-section h1, [class*="hero-"] h1, [class~="hero"] h1, .hero .hero-title, .hero-title { font-size: min(var(--display-xl, 6rem), 6rem) !important; line-height: var(--leading-display, 1.05); }
+.hero h1, .hero-section h1, [class*="hero-"] h1, [class~="hero"] h1, .hero .hero-title, .hero-title { font-size: 48px !important; line-height: 1.2 !important; }
+@media (max-width: 1024px) {
+  .hero h1, .hero-section h1, [class*="hero-"] h1, [class~="hero"] h1, .hero .hero-title, .hero-title { font-size: 36px !important; }
+}
 @media (max-width: 768px) {
-  .hero h1, .hero-section h1, [class*="hero-"] h1, [class~="hero"] h1, .hero .hero-title, .hero-title { font-size: clamp(2rem, 9vw, 3rem) !important; }
+  .hero h1, .hero-section h1, [class*="hero-"] h1, [class~="hero"] h1, .hero .hero-title, .hero-title { font-size: 28px !important; }
 }
 
 
@@ -1534,7 +1539,7 @@
       html:not([dir]) #mic-init-access-tool #mic-access-tool-general-button,
       html:not([dir]) ._access-icon { right: 20px !important; left: auto !important; }
       @media (max-width: 768px) { .whatsapp-float { display: flex !important; } }
-      @media (min-width: 769px) { .whatsapp-float { display: flex !important; } }
+      @media (min-width: 769px) { .whatsapp-float { display: none !important; } }
       @media (max-width: 768px) {
         #mic-access-tool-general-button, .mic-access-tool-general-button,
         #mic-init-access-tool .mic-access-tool-general-button, #mic-init-access-tool #mic-access-tool-general-button,
