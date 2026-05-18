@@ -7,41 +7,41 @@
 ## Pages
 
 ### בית
-https://example.com
+https://razmaarachot.zappy5.app
 רז מערכות מציעה מערכת התראה לרעידת אדמה מתקדמת שמזהה פעילות סיסמית שניות לפני האסון. הגנו על המשפחה, הקהילה והעסק שלכם עם טכנולוגיה מצילת חיים.
 
 ### שירותים
-https://example.com/services
+https://razmaarachot.zappy5.app/services
 גלו את מגוון שירותי ההתראה המתקדמים של רז מערכות: גלאי רעידת אדמה, מערכות התראה המוניות וחיישנים חכמים לבתים, ארגונים וערים. הטכנולוגיה שלנו פועלת בזמן אמת.
 
 ### אודות
-https://example.com/about
+https://razmaarachot.zappy5.app/about
 רז מערכות נוסדה מתוך שליחות אחת: להציל חיים באמצעות מערכת התראה לרעידת אדמה חדשנית. הכירו את הצוות, הערכים והחזון שהפכו אותנו למובילים בתחום הבטיחות הסיסמית בישראל.
 
 ### צור קשר
-https://example.com/contact
+https://razmaarachot.zappy5.app/contact
 יש לכם שאלות על מערכות לרעידת אדמה או רוצים להתקין גלאי רעידת אדמה בבית או בעסק? צוות המומחים של רז מערכות זמין עבורכם. צרו קשר עוד היום ותקבלו ייעוץ מקצועי ללא עלות.
 
 ### אישורים ותקינה
-https://example.com/certifications
+https://razmaarachot.zappy5.app/certifications
 רז מערכות - אישורים ותקינה
 
 ### גלריית פרויקטים והתקנות
-https://example.com/gallery
+https://razmaarachot.zappy5.app/gallery
 רז מערכות - גלריית פרויקטים והתקנות
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://razmaarachot.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://razmaarachot.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://razmaarachot.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -54,8 +54,8 @@ Information about WCAG compliance and accessibility features.
 - Address: חומה ומגדל 55 חיפה, חיפה
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://razmaarachot.zappy5.app/contact
+- Endpoint: https://razmaarachot.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -93,6 +93,6 @@ Emergency Alert Systems
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://razmaarachot.zappy5.app/sitemap.xml
+- Robots: https://razmaarachot.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://razmaarachot.zappy5.app/llms-full.txt
